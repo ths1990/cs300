@@ -1,0 +1,7 @@
+﻿  CS300Project2.cpp
+C:\Users\tyler_sfm3fox\source\repos\CS300Project2\CS300Project2.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+  CourseBST.cpp
+C:\Users\tyler_sfm3fox\source\repos\CS300Project2\CourseBST.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tyler_sfm3fox\source\repos\CS300Project2\CourseBST.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  CS300Project2.vcxproj -> C:\Users\tyler_sfm3fox\source\repos\CS300Project2\Debug\CS300Project2.exe
